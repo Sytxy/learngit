@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software.
+还是中文比较好一点
